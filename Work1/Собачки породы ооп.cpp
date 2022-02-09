@@ -171,6 +171,6 @@ int main()
 
         emp4.show_emp_details();
     }
-    std::cout << "End of program" << std::endl;
+    cout << "End of program" << endl;
     return 0;
 }
